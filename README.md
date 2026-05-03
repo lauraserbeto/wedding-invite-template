@@ -2,7 +2,7 @@
 
 Este é um projeto **real** de Convite Digital de Casamento, originalmente desenvolvido para um evento real. Para fins de exibição em portfólio, o projeto foi transformado em um modelo genérico (sanitizado), onde todos os dados sensíveis foram modificados ou removidos para garantir a **segurança e integridade das informações originais**, mantendo apenas a excelência técnica e visual.
 
-![Preview do Convite](public/hero_wedding.jpg)
+![Preview](public/convite-banner.png)
 
 ## Destaques do Projeto
 
